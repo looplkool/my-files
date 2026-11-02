@@ -4,7 +4,7 @@ girikooki_pak_20261102-4
 -아데나표기를 배고픔게이지로 이동.
 -화면 버튼 정리.
 
-girikooki_pak_20261102-3
+girikooki_pak_20261102-3 완료
 lineage.conf에 추가하세요.
 # 장신구 인챈트 방어력 적용 (기본 false)
 accessory_enchant_ac = false
@@ -12,14 +12,14 @@ false: 기존 방식 유지
 true: 장신구 +1당 AC -1 적용
 
 
-girikooki_pak_20261102-2
+girikooki_pak_20261102-2 완료
 -콘솔창 이상증상 패치.
 
-girikooki_pak_20261102-1
+girikooki_pak_20261102-1 완료
 -방어 -300까지 확장.
 -장신구는 인첸시 hp상승임.
 
-girikooki_pak_20261101-1
+girikooki_pak_20261101-1 완료
 -자동귀환 설정 변경. 완료.
 설정된 HP 비율 이하일 때만 자동귀환
 마법사 MP 부족 귀환 제거
