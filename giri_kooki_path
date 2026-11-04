@@ -1,6 +1,6 @@
 
 girikooki_pak_20261104-5
--lineage.conf 여기에 펫소환1~4, 동료소환0~2 숫자 제어 기능 추가
+-lineage.conf 여기에 펫소환1~4, 동료소환0~2 숫자 제어 기능 추가 , .동료 목록
 lineage.conf에 추가하세요.
 # 펫 소환 수: 1~4
 pet_summon_max = 4
