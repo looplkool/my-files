@@ -1,4 +1,15 @@
-girikooki_pak_20261104-4
+
+girikooki_pak_202611예정-4
+-lineage.conf 여기에 펫소환1~4, 동료소환0~2 숫자 제어 기능 추가
+lineage.conf에 추가하세요.
+# 펫 소환 수: 1~4
+pet_summon_max = 4
+# 동료 소환 수: 0~2, 0이면 비활성화
+companion_summon_max = 2
+
+
+
+girikooki_pak_20261104-4 완료
 -잊혀진섬을 포함한 펫 소환 지역 차단 목록을 전부 해제
 -펫 버튼 개선.
 -전투력CP, 아데나, SP·MR 무게게이지 근처로 이동.
